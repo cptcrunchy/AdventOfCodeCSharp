@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdventOfCodeCSharp": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Jason.Gutierrez\\Storage\\Personal\\AdventOfCode\\2020\\AdventOfCodeCSharp\\AdventOfCodeCSharp"
+    }
+  }
+}
